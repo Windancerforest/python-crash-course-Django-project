@@ -1,6 +1,6 @@
 ### Profile
 #### This is a web project for *Python Crash Course*
-**Stack **
+**Stack**
 - Python
 - Django
 - Bootstrap
